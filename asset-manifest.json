@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.78d796c4.css",
-    "main.js": "/static/js/main.496dd8be.js",
+    "main.css": "/static/css/main.f8060b75.css",
+    "main.js": "/static/js/main.2ff225ee.js",
     "static/js/787.4b1552e3.chunk.js": "/static/js/787.4b1552e3.chunk.js",
     "static/media/doc4.png": "/static/media/doc4.08b2a20a6e91711ca09a.png",
     "static/media/doc2.png": "/static/media/doc2.9c713e9319d45ad6d00f.png",
@@ -11,7 +11,20 @@
     "static/media/doc3.png": "/static/media/doc3.5968e596cf8f84709f32.png",
     "static/media/doc7.png": "/static/media/doc7.7b69647c5ff8fd69a11a.png",
     "static/media/ContactsBG.png": "/static/media/ContactsBG.d3e6bfed1c142770b6f5.png",
+    "static/media/banner1.png": "/static/media/banner1.18e8702fcdc8266da893.png",
     "static/media/bannerbg2.png": "/static/media/bannerbg2.26b81b0be5f6dad7f9e8.png",
+    "static/media/banner2.png": "/static/media/banner2.ca74aeb7643dd28397e4.png",
+    "static/media/fordecio2.png": "/static/media/fordecio2.ee9454d2625dab1132ac.png",
+    "static/media/fordecio1.png": "/static/media/fordecio1.aa07e4085b4a592d36ac.png",
+    "static/media/book3.png": "/static/media/book3.56283e63234cf7b648bc.png",
+    "static/media/book4.png": "/static/media/book4.81b01616528e63572c06.png",
+    "static/media/kuyaJ.png": "/static/media/kuyaJ.01f3f9e51d8bec7b37c3.png",
+    "static/media/book5.png": "/static/media/book5.eee0d80d7ebd7b6c1a4f.png",
+    "static/media/book6.png": "/static/media/book6.722f7c8fc59c014c75fb.png",
+    "static/media/book2.png": "/static/media/book2.7ec38cc12bf3c75f40ca.png",
+    "static/media/book1.png": "/static/media/book1.d5fdece3f2121e45f1d8.png",
+    "static/media/calendar1.png": "/static/media/calendar1.02b8c450ab2f332206c6.png",
+    "static/media/calendar2.png": "/static/media/calendar2.a5082e065796a889b39a.png",
     "static/media/allenmc.png": "/static/media/allenmc.780ac3b2581c66103f16.png",
     "static/media/LearningInstitute.png": "/static/media/LearningInstitute.02dca7f0e631c556c56a.png",
     "static/media/northernSamar.png": "/static/media/northernSamar.7bfbf457b56b30ec129f.png",
@@ -61,12 +74,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.78d796c4.css.map": "/static/css/main.78d796c4.css.map",
-    "main.496dd8be.js.map": "/static/js/main.496dd8be.js.map",
+    "main.f8060b75.css.map": "/static/css/main.f8060b75.css.map",
+    "main.2ff225ee.js.map": "/static/js/main.2ff225ee.js.map",
     "787.4b1552e3.chunk.js.map": "/static/js/787.4b1552e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78d796c4.css",
-    "static/js/main.496dd8be.js"
+    "static/css/main.f8060b75.css",
+    "static/js/main.2ff225ee.js"
   ]
 }
